@@ -1,5 +1,5 @@
 wheel
-dlib
+dlib -vvv
 albumentations==1.3.0
 datasouls_antispoof==0.0.4
 face_recognition==1.3.0
