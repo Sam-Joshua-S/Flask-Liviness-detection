@@ -1,4 +1,4 @@
-https://github.com/Sam-Joshua-S/Install-dlib/blob/main/dlib-19.19.0-cp37-cp37m-win_amd64.whl
+https://github.com/Vigneshwar-B/dlib_installation/blob/main/dlib-19.19.0-cp37-cp37m-win_amd64.whl
 albumentations==1.3.0
 datasouls_antispoof==0.0.4
 face_recognition==1.3.0
